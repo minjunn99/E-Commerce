@@ -295,3 +295,10 @@ img {
     background-color: transparent;
     font-weight: 300;
 }
+
+.cart--content > p {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 1rem;
+}
